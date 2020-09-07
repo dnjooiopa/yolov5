@@ -1,3 +1,4 @@
+print("hello test")
 import argparse
 import json
 
